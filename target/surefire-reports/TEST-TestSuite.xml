@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="TestSuite" time="0.083" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-BIDVEQPH"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Java\jdk1.8.0_181\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Java\jdk1.8.0_181\jre\lib\endorsed"/>
+    <property name="HIVE_BIN_PATH" value="C:\hadoop-2.7.7\hive\bin"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-BIDVEQPH"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="JOB_NAME" value="FreeEbayJob"/>
+    <property name="COMPUTERNAME" value="LAPTOP-BIDVEQPH"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="rajam"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 78 Stepping 3, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\rajam\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FreeEbayJob/4/display/redirect?page=changes"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-FreeEbayJob-4"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven C:\Users\rajam\.jenkins\war\WEB-INF\lib\remoting-3.26.jar C:\Users\rajam\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\rajam\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 56693"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="c1945ddcad2fbda2"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Java\jdk1.8.0_181/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;D:\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\apache\derby10\bin;C:\hadoop-2.7.7\hive\bin;C:\hadoop-2.7.7\bin;C:\Java\jdk1.8.0_181\bin;C:\hadoop-2.7.7\sbin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Users\rajam\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_121\bin;C:\hadoop-2.7.7\bin;C:\hadoop-2.7.7\sbin;C:\apache\derby10\bin;C:\Java\jdk1.8.0_181\bin;C:\Program Files\Git\bin;C:\Users\rajam\AppData\Local\GitHubDesktop\bin"/>
+    <property name="java.io.tmpdir" value="C:\Users\rajam\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\rajam\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/FreeEbayJob/4/"/>
+    <property name="M2_HOME" value="C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="=C:" value="C:\Users\rajam\Jenkins"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="c1945ddcad2fbda2"/>
+    <property name="HIVE_HOME" value="C:\hadoop-2.7.7\hive"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jre1.8.0_121"/>
+    <property name="MAVEN_HOME" value="C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\rajam\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\rajam"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="maven3.interceptor" value="C:\Users\rajam\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="java.library.path" value="C:\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/bin;C:\Java\jdk1.8.0_181/bin;C:\Java\jdk1.8.0_181/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;D:\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\apache\derby10\bin;C:\hadoop-2.7.7\hive\bin;C:\hadoop-2.7.7\bin;C:\Java\jdk1.8.0_181\bin;C:\hadoop-2.7.7\sbin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Users\rajam\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_121\bin;C:\hadoop-2.7.7\bin;C:\hadoop-2.7.7\sbin;C:\apache\derby10\bin;C:\Java\jdk1.8.0_181\bin;C:\Program Files\Git\bin;C:\Users\rajam\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="DERBY_HOME" value="C:\apache\derby10"/>
+    <property name="HIVE_LIB" value="C:\hadoop-2.7.7\hive\lib"/>
+    <property name="POM_GROUPID" value="EbayTestAutomation"/>
+    <property name="POM_ARTIFACTID" value="NewEbayTest"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/FreeEbayJob/"/>
+    <property name="platformcode" value="KV"/>
+    <property name="OneDrive" value="C:\Users\rajam\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/FreeEbayJob/4/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\rajam\.jenkins"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="TEMP" value="C:\Users\rajam\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_181\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="4e03"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\rajam\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-BIDVEQPH"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Java\jdk1.8.0_181"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\rajam"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/FreeEbayJob/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\rajam"/>
+    <property name="USERNAME" value="rajam"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\rajam\workspace\NewEbayTest"/>
+    <property name="maven.conf" value="C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\rajam\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.class.path" value="C:\Users\rajam\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven\boot\plexus-classworlds-2.5.2.jar;C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="RegionCode" value="NA"/>
+    <property name="WORKSPACE" value="C:\Users\rajam\.jenkins\workspace\FreeEbayJob"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Java\jdk1.8.0_181\jre\classes"/>
+    <property name="HADOOP_USER_CLASSPATH_FIRST" value="true"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="PATH+JDK" value="C:\Java\jdk1.8.0_181/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\rajam\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="HADOOP_HOME" value="C:\hadoop-2.7.7\bin"/>
+    <property name="JOB_BASE_NAME" value="FreeEbayJob"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="NewEbayTest"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="com.newebay.testcases.HomeTest" name="verifyHomeTitle" time="0.028"/>
+  <testcase classname="com.newebay.testcases.LoginTest" name="verifyTitle" time="0.035"/>
+  <testcase classname="com.newebay.testcases.MotorTest" name="verifyTitleMotor" time="0.02"/>
+</testsuite>

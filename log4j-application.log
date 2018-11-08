@@ -1,0 +1,10 @@
+2018-11-07 14:49:09,254 INFO  LoginTest:36 - lunching chrome
+2018-11-07 14:49:09,323 INFO  LoginTest:42 - *******Start title test********
+2018-11-07 14:49:09,335 INFO  LoginTest:45 - login page title
+2018-11-07 14:49:24,012 INFO  LoginTest:36 - lunching chrome
+2018-11-07 14:49:35,544 INFO  LoginTest:36 - lunching chrome
+2018-11-07 14:49:51,516 INFO  LoginTest:36 - lunching chrome
+2018-11-08 11:14:18,341 INFO  MotorTest:39 - Verifying title
+2018-11-08 11:14:31,700 INFO  MotorTest:47 - Verifying LOGO motor
+2018-11-08 11:14:46,946 INFO  MotorTest:53 - clicking on motor link
+2018-11-08 11:15:06,795 INFO  MotorTest:62 - veryfying select year

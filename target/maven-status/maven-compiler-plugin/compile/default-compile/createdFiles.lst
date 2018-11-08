@@ -1,0 +1,6 @@
+com\newebay\page\HomePage.class
+com\newebay\page\LoginPage.class
+com\newebay\util\CustomListner.class
+com\newebay\extentReport\ExtentReportNG.class
+com\newebay\page\MotorPage.class
+com\newebay\base\NewTestBase.class
